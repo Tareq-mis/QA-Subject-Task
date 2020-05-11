@@ -1,0 +1,28 @@
+INFO - add(1;2;6,The sum 9)
+INFO - add(1;;;2;;;3,The sum 6)
+INFO - add(1**2**3,The sum 6)
+INFO - add(1----2----3,The sum 6)
+INFO - add(1----2
+3,The sum 6)
+INFO - add(1;;;2;;;3,The sum 6)
+INFO - add(1**2**3,The sum 6)
+INFO - add(1----2----3,The sum 6)
+INFO - add(1----2
+3,The sum 6)
+INFO - add(1
+2,3,The sum 6)
+INFO - add(1,2
+3,The sum 6)
+CRITICAL - add(-1,-2,3,-4,Exception Negative inputs: -1, -2, -4)
+CRITICAL - add(-1
+2,Exception Negative inputs: -1)
+INFO - add(1
+2,The sum 3)
+INFO - add(1,
+,The sum )
+INFO - add(1,2,1000,The sum 1003)
+INFO - add(1,2,1001,The sum 3)
+INFO - add(1001,The sum 0)
+INFO - add(1,The sum 1)
+INFO - add(123,The sum 123)
+INFO - add(1,2,The sum 3)
